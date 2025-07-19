@@ -1,29 +1,72 @@
-👋 Hi, I’m Ali Raza
+<div align="center">
 
-> constantly learning, building, and experimenting.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Moirai+One&size=80&duration=7000&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=1000&height=150&lines=Ali+Raza%3A" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1280&height=75&lines=Going+to+be+a+software+engineer.;Perseverance+is+the+courage+to+continue+when+the+world+whispers,+'quit.'" alt="Typing SVG" /></a>
 
+</div>
 
-🤓 My Mindset
+<hr />
+<!-- Skills section -->
+<h2 align="center" style="color:#00FF2B">Skills & Technologies</h2>
 
-- Always curious, always trying new tech.
-- Enjoys breaking things to learn deeply.
-- Not afraid to say “I don’t know”—because that’s how real learning starts.
+<table align="center">
+  <tr>
+    <td><b style="color: #00FF2B">Category</b></td>
+    <td><b style="color: #00FF2B">Technologies</b></td>
+  </tr>
+  <tr>
+    <td style="color: #00FF2B">Frontend</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" title="React"/>
+      <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" title="TypeScript"/>
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" title="Next.js"/>
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="color: #00FF2B">Backend</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js" title="Express.js"/>
+      <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" title="PHP"/>
+      <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" title="Laravel"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="color: #00FF2B">Mobile</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" title="Flutter"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="color: #00FF2B">Languages</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" title="C++"/>
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" title="JavaScript"/>
+      <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" title="Python"/>
+      <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" title="PHP"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="color: #00FF2B">Tools & Platforms</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" title="Git"/>
+      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" title="GitHub"/>
+      <img src="https://skillicons.dev/icons?i=ubuntu" width="40" height="40" alt="Ubuntu" title="Ubuntu"/>
+      <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase" title="Supabase"/>
+      <img src="https://skillicons.dev/icons?i=prisma" width="40" height="40" alt="Prisma" title="Prisma"/>
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/>
+    </td>
+  </tr>
+</table>
 
-### what I am working on:
-- Next.js React.j
-- Express.js
-- TypeScript
-- Tailwind CSS
-- PostgreSQL
-- Prisma
-- Exploring Backend systems and API design
+<hr />
 
+<div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ali1raz&theme=hacker&border=00FF2B&stroke=00FF2B&ring=00FF2B&fire=00FF2B&currStreakNum=00FF2B&sideNums=00FF2B&currStreakLabel=00FF2B&sideLabels=00FF2B&dates=00FF2B&date_format=n%2Fj%5B%2FY%5D&mode=weekly&locale=en&card_width=550)](https://git.io/streak-stats)
 
+<hr />
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+[![Ali Raza's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ali1raz&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true&custom_title=Ali1raz's+activity+on+github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
