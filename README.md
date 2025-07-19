@@ -1,6 +1,7 @@
-👋 Hi, I’m Ali Raza
+👋[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Ali+Raza%2C+going+to+be+a+software+engineer.+Music+fan+and+history+nerd.)](https://git.io/typing-svg)
 
 > constantly learning, building, and experimenting.
+
 
 
 🤓 My Mindset
