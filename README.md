@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Moirai+One&size=80&duration=7000&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=1000&height=150&lines=Ali+Raza%3A" alt="Typing SVG"/></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1280&height=75&lines=Going+to+be+a+software+engineer.;Perseverance+is+the+courage+to+continue+when+the+world+whispers,+'quit.'" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1280&height=75&lines=Going+to+be+a+software+engineer.;Perseverance+is+the+courage+to+continue+when+the+world+whispers,+'quit.'" alt="Typing SVG" /></a>
 
 </div>
 
