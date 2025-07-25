@@ -6,6 +6,12 @@
 </div>
 
 <hr />
+
+- Love to build scalable solution.
+- Always learning new things.
+- Currently learning full stack development.
+
+<hr />
 <!-- Skills section -->
 <h2 align="center" style="color:#00FF2B">Skills & Technologies</h2>
 
@@ -62,10 +68,6 @@
 <hr />
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ali1raz&theme=hacker&border=00FF2B&stroke=00FF2B&ring=00FF2B&fire=00FF2B&currStreakNum=00FF2B&sideNums=00FF2B&currStreakLabel=00FF2B&sideLabels=00FF2B&dates=00FF2B&date_format=n%2Fj%5B%2FY%5D&mode=weekly&locale=en&card_width=550)](https://git.io/streak-stats)
-
-<hr />
 
 [![Ali Raza's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ali1raz&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true&custom_title=Ali1raz's+activity+on+github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
