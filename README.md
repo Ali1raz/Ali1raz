@@ -64,11 +64,3 @@
     </td>
   </tr>
 </table>
-
-<hr />
-
-<div align="center">
-
-[![Ali Raza's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ali1raz&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true&custom_title=Ali1raz's+activity+on+github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
