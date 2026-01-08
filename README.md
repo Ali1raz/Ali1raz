@@ -11,6 +11,16 @@
 - Always learning new things.
 - Currently learning full stack development.
 
+## Projects:
+1. <a href="https://lms-ali1raza.vercel.app/" target="_blank">LMS</a> built using Next.js, Typescript, tiptap text editor, prisma, Neon, Better-Auth, Arcjet.
+2. <a href="https://github.com/Ali1raz/split-smart" target="_blank">Split smart</a> built using Flutter and Supabase for managing/recording group expenses in friends _[and is **OPEN SOURCE**]_.
+3. <a href="https://github.com/Ali1raz/laravel-next-ecommerce-app" target="_blank">Ecommerce store</a> for admin, sellers and buyers, built using laravel backend and Next.js, sanctum auth, tailwind CSS and shadcn UI _[and is **OPEN SOURCE**]_, this project won't be maintained anymore.
+4. <a href="https://github.com/Ali1raz/flutter_dev_full_stack" target="_blank">Task Manager</a> built using Flutter frontend and Laravel backend for **Admin** (teachers in my case) and **students** to manage tasks, and track progress.  _[and is **OPEN SOURCE**]_
+
+5. <a href="https://github.com/Ali1raz/Tic-TacToe-in-CPP" target="_blank">TIC-TAC_TOE CLI based Game</a> using CPP OOP concepts _**collabed by Hassan Ali**_ (missing github link).
+5. <a href="https://github.com/Ali1raz/port-scanner-python" target="_blank">PORT scanner CLI based</a> using Python3 and tested on WSL.
+
+
 <hr />
 <!-- Skills section -->
 <h2 align="center" style="color:#00FF2B">Skills & Technologies</h2>
