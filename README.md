@@ -13,13 +13,17 @@
 
 ## Projects:
 1. <a href="https://lms-ali1raza.vercel.app/" target="_blank">LMS</a> built using Next.js, Typescript, tiptap text editor, prisma, Neon, Better-Auth, Arcjet.
-2. <a href="https://github.com/Ali1raz/split-smart" target="_blank">Split smart</a> built using Flutter and Supabase for managing/recording group expenses in friends _[and is **OPEN SOURCE**]_.
-3. <a href="https://github.com/Ali1raz/laravel-next-ecommerce-app" target="_blank">Ecommerce store</a> for admin, sellers and buyers, built using laravel backend and Next.js, sanctum auth, tailwind CSS and shadcn UI _[and is **OPEN SOURCE**]_, this project won't be maintained anymore.
-4. <a href="https://github.com/Ali1raz/flutter_dev_full_stack" target="_blank">Task Manager</a> built using Flutter frontend and Laravel backend for <a href="https://github.com/Ali1raz/flutter_dev_full_stack/tree/master/tasks_full_stack/admin_frontend">**Admin (app)**</a> (teachers in my case) and <a href="https://github.com/Ali1raz/flutter_dev_full_stack/tree/master/tasks_full_stack/student_frontend">**Students (app)**</a> to manage tasks, and track progress.  _[and is **OPEN SOURCE**]_
+2. <a href="https://github.com/Ali1raz/split-smart" target="_blank">Split smart</a> built using Flutter and Supabase for managing/recording group expenses in friends 
+3. [GitHub Activity](https://github.com/Ali1raz/MobileApp-development-/tree/master/github_api) built using Flutter and GitHub api for seeing recent (public) activities on GitHub of a user..
+3. [FlashCards](https://github.com/Ali1raz/MobileApp-development-/tree/master/flashcards) built using Flutter and sqlite for adding decks and cards.
+3. [Quiz App](https://github.com/Ali1raz/MobileApp-development-/tree/master/mid_proj) built using Flutter and sqlite for math quiz.
+4. <a href="https://github.com/Ali1raz/laravel-next-ecommerce-app" target="_blank">Ecommerce store</a> for admin, sellers and buyers, built using laravel backend and Next.js, sanctum auth, tailwind CSS and shadcn UI , this project won't be maintained anymore.
+5. <a href="https://github.com/Ali1raz/flutter_dev_full_stack" target="_blank">Task Manager</a> built using Flutter frontend and Laravel backend for <a href="https://github.com/Ali1raz/flutter_dev_full_stack/tree/master/tasks_full_stack/admin_frontend">**Admin (app)**</a> (teachers in my case) and <a href="https://github.com/Ali1raz/flutter_dev_full_stack/tree/master/tasks_full_stack/student_frontend">**Students (app)**</a> to manage tasks, and track progress.  
 
 ## CLI based apps:
-5. <a href="https://github.com/Ali1raz/Tic-TacToe-in-CPP" target="_blank">TIC-TAC_TOE CLI based Game</a> using CPP OOP concepts _**collabed by Hassan Ali**_ (missing github link).
-5. <a href="https://github.com/Ali1raz/port-scanner-python" target="_blank">PORT scanner CLI based</a> using Python3 and tested on WSL.
+1. <a href="https://github.com/Ali1raz/Tic-TacToe-in-CPP" target="_blank">TIC-TAC_TOE CLI based Game</a> using CPP OOP concepts _**collabed by Hassan Ali**_ (missing github link).
+2. <a href="https://github.com/Ali1raz/port-scanner-python" target="_blank">PORT scanner CLI based</a> using Python3 and tested on WSL.
+3. <a href="https://github.com/Ali1raz/MobileApp-development-/tree/master/cms_cpp">Comittee Management system</a> build using CPP OOP concepts.
 
 
 <hr />
