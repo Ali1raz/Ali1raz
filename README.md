@@ -12,7 +12,7 @@
 - Currently learning full stack development.
 
 ## Projects:
-1. <a href="https://lms-ali1raza.vercel.app/" target="_blank">LMS</a> built using Next.js, Typescript, tiptap text editor, prisma, Neon, Better-Auth, Arcjet.
+1. <a href="https://lms-ali1raza.vercel.app/" target="_blank">LMS</a> built using Next.js, Typescript, tiptap text editor, prisma, Neon, s3 bucket, Better-Auth, Arcjet.
 2. <a href="https://github.com/Ali1raz/split-smart" target="_blank">Split smart</a> built using Flutter and Supabase for managing/recording group expenses in friends 
 3. [GitHub Activity](https://github.com/Ali1raz/MobileApp-development-/tree/master/github_api) built using Flutter and GitHub api for seeing recent (public) activities on GitHub of a user..
 3. [FlashCards](https://github.com/Ali1raz/MobileApp-development-/tree/master/flashcards) built using Flutter and sqlite for adding decks and cards.
