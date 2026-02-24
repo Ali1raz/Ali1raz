@@ -22,12 +22,10 @@
 
 ## CLI based apps:
 1. <a href="https://github.com/Ali1raz/Tic-TacToe-in-CPP" target="_blank">TIC-TAC_TOE CLI based Game</a> using CPP OOP concepts _**collabed by Hassan Ali**_ (missing github link).
-2. <a href="https://github.com/Ali1raz/port-scanner-python" target="_blank">PORT scanner CLI based</a> using Python3 and tested on WSL.
-3. <a href="https://github.com/Ali1raz/MobileApp-development-/tree/master/cms_cpp">Comittee Management system</a> build using CPP OOP concepts.
 
-4. <a href="https://github.com/Ali1raz/DSA-in-cpp">DSA in C++</a> using OOP concepts.
+2. <a href="https://github.com/Ali1raz/DSA-in-cpp">DSA in C++</a> using OOP concepts.
 
-5. Practicing <a href="https://github.com/Ali1raz/practice-DSA-cpp">DSA in C++</a> using OOP concepts with scenarios and examples.
+3. Practicing <a href="https://github.com/Ali1raz/practice-DSA-cpp">DSA in C++</a> using OOP concepts with scenarios and examples.
 
 
 <hr />
