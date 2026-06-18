@@ -13,8 +13,9 @@
 
 ## Projects:
 1. <a href="https://lms-ali1raza.vercel.app/" target="_blank">LMS</a> built using Next.js, Typescript, tiptap text editor, prisma, Neon, s3 bucket, Better-Auth, Arcjet.
-2. <a href="https://lms-ali1raza.vercel.app" target="_blank">Ali1raz</a> my portfolio built using Next.js.
-3. <a href="https://github.com/Ali1raz/split-smart" target="_blank">Split smart</a> built using Flutter and Supabase for managing/recording group expenses in friends
+2. [CUI portal enhancement](https://portal-cui.vercel.app/) built for students, admin, HOD and accountant.
+3. <a href="https://ali1raz.vercel.app/" target="_blank">Ali1raz</a> my portfolio built using Next.js.
+4. <a href="https://github.com/Ali1raz/split-smart" target="_blank">Split smart</a> built using Flutter and Supabase for managing/recording group expenses in friends
 
 5. [GitHub Activity](https://github.com/Ali1raz/MobileApp-development-/tree/master/github_api) built using Flutter and GitHub api for seeing recent (public) activities on GitHub of a user..
 3. [FlashCards](https://github.com/Ali1raz/MobileApp-development-/tree/master/flashcards) built using Flutter and sqlite for adding decks and cards.
